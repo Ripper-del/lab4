@@ -1,0 +1,16 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Kernel module build files
+*.mod.c
+*.mod
+modules.order
+Module.symvers
+.*.cmd
+.tmp_versions/
+
+# Other binaries
+hello
